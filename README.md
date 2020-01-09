@@ -7,7 +7,7 @@ bilibili粉丝牌
 
 B站频道https://space.bilibili.com/427494870
 
-WeChat:handanmir
+WeChat:handanmir  iCOMgxk
 
 Technical support provided by Atai of iCOMgx
 
