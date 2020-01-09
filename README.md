@@ -5,6 +5,9 @@ bilibili粉丝牌
 
 采用和视频相同字体需替换u8g2库 以打包上传
 
+B站频道https://space.bilibili.com/427494870
+
+WeChat:handanmir
 
 Technical support provided by Atai of iCOMgx
 
