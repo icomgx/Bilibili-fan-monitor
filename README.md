@@ -13,9 +13,9 @@ ArduinoJson库注意需用5.X.X版本
 
 
 B站频道https://space.bilibili.com/427494870
-
-WeChat:handanmir  
-WeChat:iCOMgxk
+B站频道https://space.bilibili.com/23106193
+  
+WeChat:jtieai
 
 Technical support provided by Atai of iCOMgx
 
